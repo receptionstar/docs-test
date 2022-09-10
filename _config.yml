@@ -61,7 +61,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Reception Star":
+  "Go to Reception Star":
     - "//receptionstar.com"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -78,9 +78,9 @@ nav_next_prev: true
 # nav_next_text: "&rarr;"
 
 # External navigation links
-nav_external_links:
-  - title: ReceptionStar.com
-    url: https://reeptionstar.com
+# nav_external_links:
+#   - title: ReceptionStar.com
+#     url: https://reeptionstar.com
 
 # Caching navigation links
 # nav_cache: true
